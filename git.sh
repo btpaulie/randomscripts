@@ -7,7 +7,7 @@ echo " "
 
 read -p "URL for your repo? Just the <username>/<repo>. No github.com/ :" giturl
 
-git remote set-url origin git@github.com:'$giturl'
+git remote set-url origin git@github.com:$giturl
 
 git add --all
 
