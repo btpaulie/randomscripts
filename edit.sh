@@ -1,0 +1,9 @@
+#!
+
+darktable
+
+nautilus
+
+
+
+

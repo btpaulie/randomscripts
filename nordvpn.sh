@@ -1,0 +1,3 @@
+#!
+
+nordvpn c
